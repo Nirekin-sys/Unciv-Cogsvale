@@ -1,0 +1,11 @@
+[	
+	{
+		"name": "Factorium",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Hill"],
+		"production": 2,
+		"turnsToBuild": 9,
+		"techRequired": "Steam Power",
+		"improvingTech": "Electronics",
+		"improvingTechStats": {"production": 2}
+	}
+]
