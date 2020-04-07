@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Cogsvale",
+		"leaderName": "Sir Magnus",
+		"adjective": ["Cogsvallic"],
+		"startBias": ["Avoid Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your nation lay obstructively in the path of progress!",
+		"attacked": "How dare you go against Cogsvale!?",
+		"defeated": "As the last cogs turn and fro, I weep and wept...",
+		"introduction": "Greetings, you have met the industrious Cogsvale.",
+		
+		"neutralHello": "Good day to you.",
+		"hateHello": "Speak your mind, fraudster!",
+		
+		"tradeRequest": "To benefit our nations and advance progress, I hand out this offer.",
+				
+		"outerColor": [84,109,142],
+		"innerColor": [0,0,0],
+		"unique": "GLORY_OF_ROME",
+		"cities": ["Cogsworth","Ashmourne","Glimmerhold","Automaguard","Steelfall","Bibbinghagen","Gougetown","Blackmourne","Tinegarde","Barotown",
+			"Smokevale","Millingburg","Luggerpoint","Chronoworth","Millston","Toppingburgh","Skip's Point","Ivormore","Slateford","Pitchcairn",
+			"Jemmyvale","Hobdale","Cogsford","Snowford","Du-Ducpoint","Gearingdale","Cindervale","Paraborough","Machinhelm","Kinebury",
+			"New Cogsworth","Magnusfort","Velodale","Ravendrift","Gaulward","Brasshold","Coalstead","Bronzington","Cogstead","Steeltown"]
+	}
+]
