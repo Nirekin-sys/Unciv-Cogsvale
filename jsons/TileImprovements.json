@@ -1,6 +1,7 @@
 [	
 	{
 		"name": "Factorium",
+		"uniqueTo": "Cogsvale",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Hill"],
 		"production": 2,
 		"turnsToBuild": 9,
